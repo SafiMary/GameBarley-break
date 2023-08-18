@@ -57,7 +57,7 @@ namespace GameBarley_break
                 { 
                     DialogResult result = MessageBox.Show("Победа!!!Игра окончена", "Внимание", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     break;
-               // this.Close();
+               
                                     }  
             }
            
